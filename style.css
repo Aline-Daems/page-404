@@ -1,0 +1,42 @@
+body {
+
+    background-image: url('http://lte.ma/wp-content/uploads/2019/03/smile-wallpapers-25303-9568079.jpg');
+}
+
+h1{
+
+    text-align: right;
+    margin-right: 200px;
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+}
+  
+
+article {
+
+    text-align: right;
+    right: 100px;
+    font-family: 'Anton', sans-serif;
+    font-size: 25px;
+    position: absolute;
+
+}
+
+.button {
+
+    text-align: right;
+    right: 50px;
+    top: 850px;
+    position: absolute;
+
+}
+
+a {
+
+    text-decoration: none;
+}
+
+a:hover {
+
+    color: blueviolet;
+}
